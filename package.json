@@ -1,0 +1,24 @@
+{
+  "name": "bootstrap-4-sass-yarn-gulp-boilerplate",
+  "version": "0.1",
+  "license": "MIT",
+  "author": "@daveflynn",
+  "devDependencies": {
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-filter": "^5.1.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1",
+    "node-sass": "^4.10.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.2",
+    "tooltip.js": "^1.1.5"
+  }
+}
